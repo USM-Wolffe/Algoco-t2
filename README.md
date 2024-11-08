@@ -54,8 +54,5 @@ make clean
 - **Modificación de los costos**: Si deseas cambiar los valores de los costos, edita los archivos `cost_insert.txt`, `cost_delete.txt`, `cost_replace.txt` y `cost_transpose.txt` en la carpeta `data/`.
 - **Verifica que las rutas de los archivos** estén correctas en el código si decides mover los archivos de costos a otra ubicación.
 
-## Contacto
-Si tienes alguna duda o sugerencia, puedes ponerte en contacto con el equipo de desarrollo.
-
 ---
 © 2024 Algoco-t2 Project
