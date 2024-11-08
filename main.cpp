@@ -5,10 +5,10 @@ using namespace std;
 
 int main() {
     // Cargar las tablas de costos al inicio del programa
-    cargarCostos("cost_insert.txt", costo_insercion);
-    cargarCostos("cost_delete.txt", costo_eliminacion);
-    cargarCostosMatriz("cost_replace.txt", costo_sustitucion);
-    cargarCostosMatriz("cost_transpose.txt", costo_transposicion);
+    cargarCostos("data/cost_insert.txt", costo_insercion);
+    cargarCostos("data/cost_delete.txt", costo_eliminacion);
+    cargarCostosMatriz("data/cost_replace.txt", costo_sustitucion);
+    cargarCostosMatriz("data/cost_transpose.txt", costo_transposicion);
 
     // Aquí va la lógica de tus algoritmos y la interacción con el usuario
 
